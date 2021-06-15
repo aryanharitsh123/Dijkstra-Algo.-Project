@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1510827660 source:c:\users\aman\desktop\c programming(gfg)\dsp\main.cpp
+	<graphics.h>
+	<windows.h>
+	<iostream>
+	"algo.h"
+
+1510825622 c:\users\aman\desktop\c programming(gfg)\dsp\algo.h
+	<bits/stdc++.h>
+
